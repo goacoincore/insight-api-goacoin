@@ -65,7 +65,7 @@
     "bitcore-message-goacoin": "goacoincore/bitcore-message-goacoin",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
-    "lodash": "=4.17.1",
+    "lodash": "=4.17.5",
     "lru-cache": "^4.0.1",
     "morgan": "^1.7.0",
     "request": "^2.64.0"
